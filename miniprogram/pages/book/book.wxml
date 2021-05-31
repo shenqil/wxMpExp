@@ -1,0 +1,3 @@
+<!--miniprogram/pages/book/book.wxml-->
+<text>扫码读书</text>
+<button type="primary" bindtap="scanCode"> 扫码 </button>
